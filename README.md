@@ -4,7 +4,7 @@ Welcome to **Agency**, a sleek and modern responsive web project designed to ada
 
 ## 📸 Live Demo
 
-[👉 View Live Demo](#) *https://notrealjack.github.io/Project-Agency/*
+ <p>👉 View Live Demo <a href="https://notrealjack.github.io/Project-Agency/" target="_blank">Click here</a></p>
 
 ---
 
