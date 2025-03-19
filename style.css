@@ -36,6 +36,9 @@ h1 {
   float: right;
 }
 
+#©-r{
+    text-align: center;
+  }
 
 footer {
   text-align: right;
@@ -65,5 +68,9 @@ footer {
     display: inline;
     object-fit: cover;
   }
+
+  #©-r{
+      font-size: 13px;
+    }
 }
 
