@@ -1,6 +1,6 @@
 # 🌐 Agency - Responsive Website Project
 
-Welcome to **Agency**, a sleek and modern responsive web project designed to adapt seamlessly across all screen sizes. This project is ideal for agencies, freelancers, portfolios, or small businesses looking to showcase their services online with a clean and professional layout.
+Welcome to **Agency**, a sleek and modern responsive web project designed to adapt seamlessly across all screen sizes.
 
 ## 📸 Live Demo
 
