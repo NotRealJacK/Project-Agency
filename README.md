@@ -20,7 +20,7 @@ Welcome to **Agency**, a sleek and modern responsive web project designed to ada
 
 - HTML5
 - CSS3
-- JavaScript (Optional)
+- VS code 
 - Responsive Web Design (Media Queries)
 
 ---
